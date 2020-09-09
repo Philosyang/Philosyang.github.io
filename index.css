@@ -10,10 +10,6 @@ h3 {
   color: #7289da;
 }
 
-a {
-  color: #99aab5;
-}
-
 .youtube-width-container {
   margin: auto;
   max-width: calc(100vmin * 16 / 9);
