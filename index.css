@@ -10,6 +10,15 @@ h3 {
   color: #7289da;
 }
 
+.hidden {
+  display: none;
+}
+
+.avatar:hover + .hidden {
+  display: block;
+  color: white;
+}
+
 .youtube-width-container {
   margin: auto;
   max-width: calc(100vmin * 16 / 9);
