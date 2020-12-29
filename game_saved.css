@@ -1,0 +1,16 @@
+.body-container {
+  margin: 0;
+  background-color: #2c2f33;
+  font-family: mr-eaves-sans, sans-serif;
+  text-align: center;
+  line-height: 1.2;
+}
+
+h3 {
+  color: #7289da;
+}
+
+.game {
+  color: #ffffff;
+  text-align: center;
+}
