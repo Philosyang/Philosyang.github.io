@@ -21,7 +21,8 @@ h3 {
 
 .youtube-width-container {
   margin: auto;
-  max-width: calc(100vmin * 16 / 9);
+  /* max-width: calc(100vmin * 16 / 9); */
+  max-width: calc(50vmin * 16 / 9);
 }
 
 .youtube-container {
