@@ -1,0 +1,52 @@
+# Basic config
+baseURL = "https://philosyang.github.io"
+theme = "hugo-bearblog"
+title = "Philos"
+copyright = "Philos (CC BY-SA 4.0)"
+defaultContentLanguage = "en"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# Setup syntax highlighting without inline styles
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    # This allows Bear Cub to use a variation of Dracula that is more accessible
+    noClasses = false
+
+[params]
+  # The description of your website
+  description = "Philos' Personal Page"
+
+  # The path to your favicon (you can add this later)
+  # favicon = "images/favicon.png"
+
+  # This title is used as the site_name on the Hugo's internal opengraph
+  title = "Philos"
+
+  # Dates are displayed following the format below
+  dateFormat = "2006-01-02"
+
+  # If your blog is multilingual but you haven't translated a page, this theme
+  # will create a disabled link. By setting `hideUntranslated` to true, you can
+  # have the theme simply not show any link
+  hideUntranslated = false
+
+  # (EXPERIMENTAL) This theme has two options for its CSS styles: "original" and
+  # "herman". The former is what you see on Bear Cub's demo, while the latter 
+  # has a more modern look
+  # themeStyle = "original"  # This was specific to hugo-bearcub
+
+  # (EXPERIMENTAL) Generate social cards for posts
+  # generateSocialCard = true  # Check if this is supported by hugo-bearblog
+
+  # The "Made with" text in the footer
+  madeWith = "Made with [Bear Blog](https://github.com/janraasch/hugo-bearblog)"
+
+  # Author metadata. This is mostly used for the RSS feed of your site, but the
+  # email is also added to the footer of each post
+  [params.author]
+    name = "Philos"
+    # email = "your-email@example.com" # Add your email if you want
