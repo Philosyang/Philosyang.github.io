@@ -12,6 +12,9 @@ Meanwhile, check them out: https://huantian.dev/
 <details>
 <summary>contruction site</summary>
 
+focus on:  
+only write things that require minimal maintenance here
+
 Don't mind me, I'm just messing with markdown.
 
 You can include:
