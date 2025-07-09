@@ -7,6 +7,28 @@ under construction :)
 
 Meanwhile, check them out: https://huantian.dev/
 
+---
+ 
+<details>
+<summary>contruction site</summary>
+
+Don't mind me, I'm just messing with markdown.
+
+You can include:
+- Lists
+- **Bold text**
+- `code blocks`
+- Any other markdown content
+
+## test2
+something2
+
+### test3
+something3
+
+</details>
+
+
 <!-- # Hello, I'm Philos
 
 Welcome to my personal page and portfolio. This is where I share my projects, thoughts, and experiences.
