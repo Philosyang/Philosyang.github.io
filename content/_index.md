@@ -5,6 +5,8 @@ date: 2025-07-05
 
 under construction :)
 
+I have been populating my /blog section first, for now.
+
 Meanwhile, check them out: https://huantian.dev/
 
 ---
