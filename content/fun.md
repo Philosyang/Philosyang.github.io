@@ -6,7 +6,7 @@ weight: 3
 
 Generally speaking, I like music and video games.
 
-## Rhythm games
+## Rhythm Games
 
 I have been driving 100 miles back and forth to my nearest maimai dx arcade twice a week since 2024-11, and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment, and I am also fortunate enough to be around an inclusive and friendly local social circle around this game.
 
@@ -71,3 +71,6 @@ Yonder Voice - 花月夜 (2014)
 
 </details>
 
+## Other Games
+
+Besides rhythm games, I also enjoy: platformers (metroidvania), pixel graphics, roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space. Action games in general. But I have been devoting almost all my leisure for either maimai or career growth for now.
