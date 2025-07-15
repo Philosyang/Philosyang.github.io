@@ -1,7 +1,7 @@
 ---
-title: "128. Longest Consecutive Sequence: Union Find (Disjoint Set Union)"
+title: "Union Find (Disjoint Set Union)"
 date: 2025-07-14
-tags: ["algorithm", "neetcode150", "arrays", "union-find", "python"]
+tags: ["algorithm", "neetcode150", "union-find", "python"]
 ---
 
 Time to master union find to end this all.
@@ -62,7 +62,7 @@ If both have equal height, it is inevitable (either way) to have our maximum hei
 Rank does not necessarily equal to height. Rank is only an approximation:
 
 <details><summary>Our current setup does not support an accurate height tracker, why?</summary>
-    <details><summary>Because we don't do any updates to height during path compression, which we should, we could, but we needn't for DSU, why?</summary>
+    <details><summary>Because we didn't do any updates to height during path compression, which we should, we could, but we needn't for DSU, why?</summary>
         As long as we keep track of a "height" that is accurate in a relative way (i.e., given rank >= height, rank A >= rank B can be reliably translated into height A >= height B), this is all we need.
     </details>
 </details>
