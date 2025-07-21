@@ -8,21 +8,11 @@ Generally speaking, I like music and video games.
 
 ## Rhythm Games
 
-I have been driving 100 miles back and forth to my nearest maimai dx arcade twice a week since 2024-11, and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment, and I am also fortunate enough to be around an inclusive and friendly local social circle around this game.
+I have been driving 100 miles back and forth to my nearest maimai dx arcade twice a week since 2024-11 and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
 
-I also do a bit of other rhythm games especially if they have vocaloid songs/covers such as プロセカ, but none is nearly as fun as maimai.
+I have heard that SEGA will officially bring maimai dx to the US in 2025 fall, here's copium. I probably will just drive to Round1 daily after work if that happens. I am also planning to get my hands on an adxlite (coming soon™️️) for majdata charts, and possibly mod the buttons to make it feel nearly as good.
 
-<details><summary>burnout, and prevention</summary>
-
-I once had a blast with Arcaea, but it turned into a burnout, and I was at fault.
-
-One of the _features_ about rhythm games is its instantaneous feedback loop - from each note to your ratings/potential/volforce. You time it well, it rewards you with a Perfect. You time the song well, it rewards you with an All Perfect. It _is_ rewarding, yet you need to be fully aware on what makes you think the game is fun. The further you stretch for the fruit, the more difficult it gets to reach the next one. But when the focus shifts from enjoying the rhythm to chasing the next rating or title, the fun can quietly drain away.
-
-Unlike work, rhythm games don’t come with external rewards like money or career growth. So the satisfaction has to be intrinsic - the joy of improvement, the connection to the music, the thrill of flow state. But if you're grinding for milestones that feel more like obligations than rewards, then it starts to mirror the burnout loop of work... without the paycheck.
-
-That’s not to say chasing goals in rhythm games is bad - it can be very fulfilling. If reaching a milestone makes you think it's worth it, go for it. What I would like to convey is that, it’s worth checking in with yourself if you are still having fun. If the answer is yes, stretch for that fruit. If the answer is no, maybe it’s time to just dance to the beat.
-
-</details>
+I also do a bit of other rhythm games especially if they have vocaloid songs/covers such as ユメステ and プロセカ, but none is nearly as fun as maimai.
 
 ## Music
 
