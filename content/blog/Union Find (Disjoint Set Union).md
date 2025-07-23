@@ -1,7 +1,7 @@
 ---
-title: "Union Find (Disjoint Set Union)"
+title: "Union Find (Disjoint Set Union) Walkthrough"
 date: 2025-07-14
-tags: ["algorithm", "neetcode150", "union-find", "python"]
+tags: ["algorithm", "union-find", "python"]
 ---
 
 Time to master union find to end this all.

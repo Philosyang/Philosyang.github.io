@@ -1,7 +1,7 @@
 ---
 title: "In the Haste to Clear: Introspections on Rhythm Game Race-to-Firsts"
 date: 2025-07-14
-tags: ["rhythm-game", "maimai"]
+# tags: ["rhythm-game", "maimai"]
 ---
 
 Putting myself into the shoes of SEGA and the rankers.
