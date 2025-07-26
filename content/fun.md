@@ -8,11 +8,23 @@ Generally speaking, I like music and video games.
 
 ## Rhythm Games
 
-I have been driving 100 miles back and forth to my nearest maimai dx arcade twice a week since 2024-11 and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
+I have been driving 100 miles to my nearest maimai dx arcade twice a week since 2024-11 and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
 
 I have heard that SEGA will officially bring maimai dx to the US in 2025 fall, here's copium. I probably will just drive to Round1 daily after work if that happens. I am also planning to get my hands on an adxlite (coming soon™️️) for majdata charts, and possibly mod the buttons to make it feel nearly as good.
 
 I also do a bit of other rhythm games especially if they have vocaloid songs/covers such as ユメステ and プロセカ, but none is nearly as fun as maimai.
+
+<details><summary>burnout, and prevention</summary>
+
+I once had a blast with Arcaea, but it turned into a burnout, and I was at fault.
+
+One of the _features_ about rhythm games is its instantaneous feedback loop - from each note to your ratings/potential/volforce. You time it well, it rewards you with a Perfect. You time the song well, it rewards you with an All Perfect. It _is_ rewarding, yet you need to be fully aware on what makes you think the game is fun. When the focus shifts further from enjoying the rhythm to chasing the next rating or title, the point-of-fun changes from "great songs that I can vibe to" to "I need to grind this chart up to SSS+, " which is often not as worthwhile in hindsight.
+
+That’s not to say chasing goals in rhythm games is bad - it can be very fulfilling. If reaching a milestone makes you think it's worth it, go for it. What I would like to convey is that, it’s worth checking in with yourself if you are still having fun. If the answer is yes, stretch for that fruit. If the answer is no, maybe it’s time to just vibe along.
+
+Just play some good songs and lose yourself in it; only chase after weighing on the fun scale.
+
+</details>
 
 ## Music
 
@@ -25,8 +37,8 @@ I buy albums to fulfill my materialism needs as well as a nod to their work.
 かいりきベア - ダーリンシンドローム (2021)  
 雄之助 - Tranquilizer (2023)  
 ツユ - 貴方を不幸に誘いますね (2021)  
+DECO\*27 - アンドロイドガール (2019)  
 MIMI - よるつむぎ (2023)  
-DECO\*27 - アンデッドアリス (2020)  
 
 </details>
 
@@ -40,7 +52,7 @@ Chinozo - The Hollows (2024)
 DECO\*27 - GHOST (2016)  
 DECO\*27 - Mannequin (2022)  
 DECO\*27 - TRANSFORM (2024)  
-DECO\*27 - アンドロイドガール (2019)  
+DECO\*27 - アンデッドアリス (2020)  
 Kanaria - KING (2020)  
 Lena Raine - Celeste Original Soundtrack (2018)  
 Masakazu Sugimori - Ghost Trick Phantom Detective Original Sound Track (2010)  
