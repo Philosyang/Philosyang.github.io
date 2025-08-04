@@ -1,7 +1,7 @@
 ---
 title: "Listen Before you Purchase an Album"
 date: 2025-08-04
-tags: ["music", "rant"]
+# tags: ["music", "rant"]
 ---
 
 I purchased MIMI's second album (夜をだきしめる時。) without listening to it first, and unfortunately it didn't live up to my expectations (i.e., it was not an optimal financial decision).
