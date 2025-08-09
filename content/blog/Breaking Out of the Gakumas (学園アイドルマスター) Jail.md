@@ -1,7 +1,7 @@
 ---
 title: "Breaking Out of the Gakumas (学園アイドルマスター) Jail"
 date: 2025-07-20
-tags: ["rant"]
+tags: ["slice-of-life"]
 ---
 
 The sunk cost is real.

@@ -1,7 +1,7 @@
 ---
 title: "Don't Ask Too Much from Models"
 date: 2025-07-29
-tags: ["rant"]
+tags: ["slice-of-life"]
 ---
 
 I enjoy using models to assist with my projects, whether it's to find the best tech stack to kick off a hobby project or to generate a piece of code. However, we should only let them help to an extent.
