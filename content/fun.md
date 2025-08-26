@@ -8,7 +8,7 @@ Generally speaking, I like music and video games.
 
 ## Rhythm Games
 
-I have been driving 100 miles to my nearest maimai dx arcade twice a week since 2024-11 and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
+I have been driving 100 miles to my nearest maimai dx arcade on a weekly basis since 2024-11 and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
 
 I have heard that SEGA will officially bring maimai dx to the US in 2025 fall, here's copium. I probably will just drive to Round1 daily after work if that happens. I am also planning to get my hands on an adxlite (coming soon™️️) for majdata charts, and possibly mod the buttons to make it feel nearly as good.
 
@@ -75,4 +75,4 @@ Yonder Voice - 花月夜 (2014)
 
 ## Other Games
 
-Besides rhythm games, I also enjoy: platformers (metroidvania), pixel graphics, roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space. Action games in general. But I have been devoting almost all my leisure for either maimai or career growth for now.
+Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space. Action games in general. But I have been devoting almost all my leisure for either maimai or career growth for now.
