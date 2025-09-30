@@ -8,11 +8,13 @@ Generally speaking, I like music and video games.
 
 ## Rhythm Games
 
-I have been driving 100 miles to my nearest maimai dx arcade on a weekly basis since 2024-11 and I indulge and devour the vocaloid folder. maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
+maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
 
-I have heard that SEGA will officially bring maimai dx to the US in 2025 fall, here's copium. I probably will just drive to Round1 daily after work if that happens. I am also planning to get my hands on an adxlite (coming soon™️️) for majdata charts, and possibly mod the buttons to make it feel nearly as good.
+Now that SEGA has officially brought maimai to the US, I will just vibe the US-101 traffic after work and pick a maimai place that has fewer people.
 
-I also do a bit of other rhythm games especially if they have vocaloid songs/covers such as ユメステ and プロセカ, but none is nearly as fun as maimai.
+I also managed to get my hands on a used third-party maimai controller from one in San Jose, so my garage is always the emergency retreat option if all fails. It also enables me to play majdata fanmades, which I have high hopes on the whole concept (click the circles) and I am contributing code for a better majdata as another side of my maimai passion.
+
+I also do a bit of other rhythm games especially if they have vocaloid/niconico/anime songs/covers such as ユメステ and プロセカ, but none is nearly as fun as maimai.
 
 <details><summary>burnout, and prevention</summary>
 
@@ -75,4 +77,4 @@ Yonder Voice - 花月夜 (2014)
 
 ## Other Games
 
-Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space. Action games in general. But I have been devoting almost all my leisure for either maimai or career growth for now.
+Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space, action, but I have been devoting almost all my leisure for either maimai or career growth for now.
