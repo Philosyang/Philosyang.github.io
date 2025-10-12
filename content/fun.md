@@ -8,29 +8,15 @@ Generally speaking, I like music and video games.
 
 ## Rhythm Games
 
-maimai has become a significant and irreplacable part of my entertainment. I am also fortunate enough to be around an inclusive and friendly local social circle around this game, as well as making many friends beyond the game itself.
+I am fortunate enough to be around an inclusive and friendly local social circle around rhythm games, as well as making many friends beyond the games themselves.
 
-Now that SEGA has officially brought maimai to the US, I will just vibe the US-101 traffic after work and pick a maimai place that has fewer people.
+I typically just vibe the traffic after work and pick a Round1 that has fewer people for some iidx and maimai.
 
-I also managed to get my hands on a used third-party maimai controller from one in San Jose, so my garage is always the emergency retreat option if all fails. It also enables me to play majdata fanmades, which I have high hopes on the whole concept (click the circles) and I am contributing code for a better majdata as another side of my maimai passion.
-
-I also do a bit of other rhythm games especially if they have vocaloid/niconico/anime songs/covers such as ユメステ and プロセカ, but none is nearly as fun as maimai.
-
-<details><summary>burnout, and prevention</summary>
-
-I once had a blast with Arcaea, but it turned into a burnout, and I was at fault.
-
-One of the _features_ about rhythm games is its instantaneous feedback loop - from each note to your ratings/potential/volforce. You time it well, it rewards you with a Perfect. You time the song well, it rewards you with an All Perfect. It _is_ rewarding, yet you need to be fully aware on what makes you think the game is fun. When the focus shifts further from enjoying the rhythm to chasing the next rating or title, the point-of-fun changes from "great songs that I can vibe to" to "I need to grind this chart up to SSS+, " which is often not as worthwhile in hindsight.
-
-That’s not to say chasing goals in rhythm games is bad - it can be very fulfilling. If reaching a milestone makes you think it's worth it, go for it. What I would like to convey is that, it’s worth checking in with yourself if you are still having fun. If the answer is yes, stretch for that fruit. If the answer is no, maybe it’s time to just vibe along.
-
-Just play some good songs and lose yourself in it; only chase after weighing on the fun scale.
-
-</details>
+I also do other rhythm games especially if they have vocaloid/j-pop such as ユメステ and プロセカ, but I have yet to find one that is nearly as fun as iidx and mai.
 
 ## Music
 
-To me, music is like a drug that for some reasons is legal. My favorites lie in EDM (Trance, House, Techno) and part of J-pop (and if you consider vocaloid as a genre, tick that and prepend it).
+To me, music is like a drug that for some reasons is legal. My favorites lie in EDM (Dance, Trance, House, Bounce, Techno) and part of J-pop (and if you consider vocaloid as a genre, tick that as well).
 
 I buy albums to fulfill my materialism needs as well as a nod to their work.
 

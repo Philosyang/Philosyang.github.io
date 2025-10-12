@@ -21,3 +21,8 @@ I think (cope) 4GB of RAM can still be usable for a while, but I might need at l
 If the RAM leeway can only last me another year or two, then maybe it's just better cost performance-wise to upgrade; not essentially to the newest model - the 16e is very enticing given its 8GB RAM and a healthy amount of battery capacity.
 
 The problem is they killed the mini series line up, and the prognosis is poor. I might just have to live with a 6+" brick soon.
+
+---
+
+10-10 edit:
+battery health finally dropped to 79% and I immediately conducted a battery replacement at a local Apple store. I really like the size of my mini so I'm doubling down.
