@@ -11,3 +11,9 @@ I found this line very applicable. It applies to humans. Humans think all the ti
 Lots of jobs are a form of allowing one to sustain their life in exchange for one's thinkings (i.e., A pays B to think and deliver the results - there are still many jobs that require little thinking, but many are being replaced by automated pipelines.)
 
 I think it's also one of the reasons I wanted to blog, so that I can convey my reasoned results to others.
+
+---
+
+10-16 edit:
+> The irony is that boredom, when practiced, actually makes life feel fuller, as it cracks open the space for questions of purpose and significance. It’s a breeding ground for creativity.  
+> https://readreboot.com/p/the-art-of-boredom
