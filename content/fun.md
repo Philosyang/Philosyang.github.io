@@ -10,9 +10,9 @@ Generally speaking, I like music and video games.
 
 I am fortunate enough to be around an inclusive and friendly local social circle around rhythm games, as well as making many friends beyond the games themselves.
 
-I typically just vibe the traffic after work and pick a Round1 that has fewer people for some iidx and maimai.
+I typically just vibe the traffic after work and pick a Round1 that has fewer people for some maimai or iidx.
 
-I also do other rhythm games especially if they have vocaloid/j-pop such as ユメステ and プロセカ, but I have yet to find one that is nearly as fun as iidx and mai.
+I also do other rhythm games especially if they have vocaloid/j-pop such as プロセカ (Project Sekai) and ユメステ (World Dai Star), but I have yet to find one that is nearly as fun as maimai.
 
 ## Music
 
@@ -20,7 +20,7 @@ To me, music is like a drug that for some reasons is legal. My favorites lie in 
 
 I buy albums to fulfill my materialism needs as well as a nod to their work.
 
-<details open><summary>albums I love</summary>
+<details open><summary>great albums</summary>
 
 かいりきベア - ダーリンシンドローム (2021)  
 雄之助 - Tranquilizer (2023)  
@@ -30,7 +30,16 @@ Orangestar - And So Henceforth (2023)
 
 </details>
 
-<details><summary>albums I like</summary>
+<details open><summary>great songs</summary>
+
+tn-shi - Synthesis. (2023)  
+HHHxMMxST - 朧 (Oboro) (2012)  
+MK - Get set, Go! feat.Kanae Asaba (2021)  
+BlackY feat. Risa Yuzuki - Löschen (2021)  
+
+</details>
+
+<details><summary>good albums</summary>
 
 Astral Sky vs. 非可逆リズム - SUPERNOV∀ (2020)  
 Awairo - グラデーション (2025)  
@@ -38,6 +47,7 @@ Ayase - 幽霊東京 (2019)
 Chinozo - The Hollows (2024)  
 DECO\*27 - GHOST (2016)  
 DECO\*27 - アンデッドアリス (2020)  
+ヒメヒナ - Bubblin (2025)
 Kanaria - KING (2020)  
 Lena Raine - Celeste Original Soundtrack (2018)  
 Masakazu Sugimori - Ghost Trick Phantom Detective Original Sound Track (2010)  
