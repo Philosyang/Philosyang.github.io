@@ -6,6 +6,10 @@ weight: 3
 
 Generally speaking, I like music and video games.
 
+How a language model rated my gaming taste archetype:  
+“The Mastery Explorer” – thrives on skill, intuition, and organic discovery; avoids randomness, hand-holding, and artificial progression.
+
+
 ## Rhythm Games
 
 I am fortunate enough to be around an inclusive and friendly local social circle around rhythm games, as well as making many friends beyond the games themselves.
@@ -68,4 +72,4 @@ Yonder Voice - 花月夜 (2014)
 
 ## Other Games
 
-Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space, action, but I have been devoting almost all my leisure for either maimai or career growth for now.
+Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space, action, but I have been devoting almost all my leisure for either career growth or maimai for now.
