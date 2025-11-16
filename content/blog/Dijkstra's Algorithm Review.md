@@ -72,3 +72,47 @@ while node is not None:
 path.reverse()
 print(f"Path: {' → '.join(path)}")  # Should be A → C → E → B
 ```
+
+---
+
+edit 11-16:
+
+```python
+import heapq
+
+graph = {
+    'A': [('C', 1), ('D', 4)],
+    'C': [('D', 2), ('E', 5)],
+    'D': [('B', 3)],
+    'E': [('B', 1)],
+    'B': []  # no outgoing edges
+}
+
+# shortest path from A to B
+def shortest_path_A_to_B(graph: dict):
+
+    dist = {k: float('inf') for k in graph.keys()}
+    parent = {k: None for k in graph.keys()}
+
+    dist['A'] = 0
+    pq = [(0, 'A')]
+    visited = set()
+
+    while pq:
+        cur_node_dist, cur_node = heapq.heappop(pq)
+
+        if cur_node in visited:
+            continue
+        visited.add(cur_node)
+
+        for child_node, child_node_dist in graph[cur_node]:
+            possibly_shorter_distance = cur_node_dist + child_node_dist
+            if possibly_shorter_distance < dist[child_node]:   # if we can get to child_node in a shorter distance
+                dist[child_node] = possibly_shorter_distance
+                parent[child_node] = cur_node
+                heapq.heappush(pq, (possibly_shorter_distance, child_node))
+
+    return dist['B']
+
+print(shortest_path_A_to_B(graph))
+```
