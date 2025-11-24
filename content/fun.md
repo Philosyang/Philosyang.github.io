@@ -37,9 +37,9 @@ Orangestar - And So Henceforth (2023)
 <details open><summary>great songs</summary>
 
 tn-shi - Synthesis. (2023)  
+BlackY feat. Risa Yuzuki - Starry Colors (2022)  
+MK - Get set, Go! feat. Kanae Asaba (2021)  
 HHHxMMxST - 朧 (Oboro) (2012)  
-MK - Get set, Go! feat.Kanae Asaba (2021)  
-BlackY feat. Risa Yuzuki - Löschen (2021)  
 
 </details>
 
