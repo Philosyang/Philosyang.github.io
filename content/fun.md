@@ -70,6 +70,23 @@ Yonder Voice - 花月夜 (2014)
 
 </details>
 
-## Other Games
+## Other Games & Hobbies
 
-Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space, action, but I have been devoting almost all my leisure for either career growth or maimai for now.
+Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space, action; also some visual novel (voiced ebook with fancy drawings).  
+Basically give my steam profile a look and you will get it.
+
+Things like modded Minecraft and FFXIV were also my good times when I wasn't this chained to improving my life.  
+AE2 is the best Minecraft mod.  
+I'm no longer actively playing FFXIV because they killed BLM gameplay, it's extremely sad but if that's what they wanted, I will take the leave.
+
+I recently bought and have been playing ARC Raiders after watching Pekora play it.
+
+I watch vtubers and browse tech news when I'm too tired to play anything.
+
+---
+
+If I can ever have normal 5*8 work weeks in the future:
+
+I would like to further improve my Japanese skills so that I can fully understand voice dramas / any general broadcasts of my games / artists so that I can listen to them while driving.
+
+I want to pick up my piano (redoing staff notation) and look into music creation.
