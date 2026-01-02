@@ -42,4 +42,7 @@ yarn-error.log*
 .env.*.local
 
 # Hugo theme development
-hugo_stats.json 
+hugo_stats.json
+
+# private files
+content/blog/leetcode-problems/private/
