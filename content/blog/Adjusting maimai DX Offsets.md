@@ -25,7 +25,7 @@ judgment timing B: the B offset you can change in your options, abbreviated as "
 What offset A actually changes is the offset on when the software plays the song in respect to the chart, i.e. whether to play the music ever so slightly earlier/later while the chart still happens at the same point of time.  
 What offset B actually changes is the offset on the judgment in respect to the chart. For example, you tapped +0.5 frames later compared to the preset judgment of this chart, by changing offset B, you tell the software to move the preset judgment later by 0.5 frames. Now you still tap at the same time, but the game records this tap as "exactly the perfect time" because the judgment now treats every response with a -0.5 offset.
 
-![Minepig233 - Maimai 无理综述（二）- 判定全解](../assets/maimai-offset-visual.png)
+![Minepig233 - Maimai 无理综述（二）- 判定全解](/images/maimai-offset-visual.png)
 
 </details>
 
