@@ -7,14 +7,14 @@ weight: 3
 Generally speaking, I like music and video games.
 
 How a language model rated my gaming taste archetype:  
-“The Mastery Explorer” – thrives on skill, intuition, and organic discovery; avoids randomness, hand-holding, and artificial progression.
+“The Mastery Explorer” – thrives on skill, intuition, and organic discovery.
 
 
 ## Rhythm Games
 
 I am fortunate enough to be around an inclusive and friendly local social circle around rhythm games, as well as making many friends beyond the games themselves.
 
-I typically just vibe the traffic after work and pick a Round1 that has fewer people for some maimai or iidx.
+I am typically at one of my local Round1s during the weekends for some maimai or iidx.
 
 I also do other rhythm games especially if they have vocaloid/j-pop such as プロセカ (Project Sekai) and ユメステ (World Dai Star), but I have yet to find one that is nearly as fun as maimai.
 
@@ -24,18 +24,19 @@ To me, music is like a drug that for some reasons is legal. My favorites lie in 
 
 I buy albums to fulfill my materialism needs as well as a nod to their work.
 
-<details open><summary>great albums</summary>
+<details open><summary>featured albums</summary>
 
 かいりきベア - ダーリンシンドローム (2021)  
 雄之助 - Tranquilizer (2023)  
+r-906 - sanctuary (2026)  
 稲葉曇 - ウェザーステーション (2022)  
-DECO\*27 - アンドロイドガール (2019)  
 Orangestar - And So Henceforth (2023)  
 
 </details>
 
-<details open><summary>great songs</summary>
+<details open><summary>featured songs</summary>
 
+ナナツカゼ - あのね (2025)  
 tn-shi - Synthesis. (2023)  
 BlackY feat. Risa Yuzuki - Starry Colors (2022)  
 MK - Get set, Go! feat. Kanae Asaba (2021)  
@@ -43,7 +44,7 @@ HHHxMMxST - 朧 (Oboro) (2012)
 
 </details>
 
-<details><summary>good albums</summary>
+<details><summary>more albums</summary>
 
 Astral Sky vs. 非可逆リズム - SUPERNOV∀ (2020)  
 Awairo - グラデーション (2025)  
@@ -51,6 +52,8 @@ Ayase - 幽霊東京 (2019)
 Chinozo - The Hollows (2024)  
 DECO\*27 - GHOST (2016)  
 DECO\*27 - アンデッドアリス (2020)  
+DECO\*27 - アンドロイドガール (2019)  
+Endorfin. - Horizon Dream (2025)  
 ヒメヒナ - Bubblin (2025)
 Kanaria - KING (2020)  
 Lena Raine - Celeste Original Soundtrack (2018)  
@@ -72,20 +75,26 @@ Yonder Voice - 花月夜 (2014)
 
 ## Other Games & Hobbies
 
+### Driving
+Ever since I got my first car (portable home) am I passionate in driving. Driving alone gives me a controlled environment where I can listen to my music while giving me a sense of control and a feeling of progression. Driving with friends next to you means nice, controlled positive social energy.
+
+Toyota's eCVT is the best transmission.
+
+### Video Games
 Besides rhythm games, I also enjoy: pixel graphics, platformers (metroidvania), roguelike/lite, adventure/exploration, bullet hell, automation, strategy (_not_ puzzle), space, action; also some visual novel (voiced ebook with fancy drawings).  
 Basically give my steam profile a look and you will get it.
 
 Things like modded Minecraft and FFXIV were also my good times when I wasn't this chained to improving my life.  
 AE2 is the best Minecraft mod.  
-I'm no longer actively playing FFXIV because they killed BLM gameplay, it's extremely sad but if that's what they wanted, I will take the leave.
-
-I recently bought and have been playing ARC Raiders after watching Pekora play it.
+I'm no longer actively playing FFXIV because they killed BLM gameplay, it's extremely sad but I will take the leave.
 
 I watch vtubers and browse tech news when I'm too tired to play anything.
 
----
+## Future
 
-If I can ever have normal 5*8 work weeks in the future:
+If I can ever have a better work-life balance:
+
+Learn to drive a manual.
 
 I would like to further improve my Japanese skills so that I can fully understand voice dramas / any general broadcasts of my games / artists so that I can listen to them while driving.
 
