@@ -22,7 +22,7 @@ judgment timing B: the B offset you can change in your options, abbreviated as "
 <details>
 <summary>details on offset A & B; as well as an image showing concepts' relationships</summary>
 
-What offset A actually changes is the offset on when the software plays the song in respect to the chart, i.e. whether to play the music ever so slightly earlier/later while the chart still happens at the same point of time.  
+What offset A actually changes is the offset on when the software plays the song in respect to the chart, i.e. whether to play the music ever so slightly earlier/later while the chart still happens at the same point in time.  
 What offset B actually changes is the offset on the judgment in respect to the chart. For example, you tapped +0.5 frames later compared to the preset judgment of this chart, by changing offset B, you tell the software to move the preset judgment later by 0.5 frames. Now you still tap at the same time, but the game records this tap as "exactly the perfect time" because the judgment now treats every response with a -0.5 offset.
 
 ![Minepig233 - Maimai 无理综述（二）- 判定全解](/images/maimai-offset-visual.png)
@@ -43,8 +43,8 @@ What offset B actually changes is the offset on the judgment in respect to the c
 ### II. adjusting offset A
 In this section, we align the visuals to our likings so that it looks like the notes are flying right at the places where we feel like hitting them. Before this section it can feel like "I am hitting now because I am sticking to the rhythm, but things will change a lot if I play this song muted (i.e., using only the visual cues)." The optimal result after this section is something like "I will hit now based on the rhythm, and I will also hit now based on the visual."
 
-If you think that we are currently hitting the notes before they visually reach the curve (or any location you think the notes should be when you are hitting them). Add 0.3 to offset A and subtract 0.3 from offset B. If you add X to A, subtract X from B; they are coupled together in the opposite direction within the scope of this section.  
-Similarly, if you think the notes are already flying out of bounds when we are hitting to the beats, we should subtract X from A and add X to B.
+If you think that we are currently hitting the notes before they visually reach the curve (or any location you think the notes should be when you are hitting them). Subtract 0.3 from offset A and add 0.3 to offset B. If you subtract X from A, add X to B; they are coupled together in the opposite direction within the scope of this section.  
+Similarly, if you think the notes are already flying out of bounds when we are hitting to the beats, we should add X to A and subtract X from B.
 
 <details>
 <summary>why coupled</summary>
