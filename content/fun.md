@@ -16,13 +16,11 @@ I am fortunate enough to be around an inclusive and friendly local social circle
 
 I am typically at one of my local Round1s during the weekends for some maimai or iidx.
 
-I also do other rhythm games especially if they have vocaloid/j-pop such as プロセカ (Project Sekai) and ユメステ (World Dai Star), but I have yet to find one that is nearly as fun as maimai.
-
 ## Music
 
-To me, music is like a drug that for some reasons is legal. My favorites lie in EDM (Dance, Trance, House, Bounce, Techno) and part of J-pop (and if you consider vocaloid as a genre, tick that as well).
+To me, music is like a drug that for some reasons is legal. My favorites lie in EDM (Dance, Trance, House, Bounce, Techno) and part of J-pop (and if you consider vocaloid as a genre, tick that and mark as favorite).
 
-I buy albums to fulfill my materialism needs as well as a nod to their work.
+I buy albums to fulfill my materialism needs as well as expressing my thanks.
 
 <details open><summary>featured albums</summary>
 
@@ -36,8 +34,8 @@ Orangestar - And So Henceforth (2023)
 
 <details open><summary>featured songs</summary>
 
-ナナツカゼ - あのね (2025)  
 tn-shi - Synthesis. (2023)  
+ナナツカゼ - あのね (2025)  
 BlackY feat. Risa Yuzuki - Starry Colors (2022)  
 MK - Get set, Go! feat. Kanae Asaba (2021)  
 HHHxMMxST - 朧 (Oboro) (2012)  
@@ -54,17 +52,15 @@ DECO\*27 - GHOST (2016)
 DECO\*27 - アンデッドアリス (2020)  
 DECO\*27 - アンドロイドガール (2019)  
 Endorfin. - Horizon Dream (2025)  
-ヒメヒナ - Bubblin (2025)
 Kanaria - KING (2020)  
 Lena Raine - Celeste Original Soundtrack (2018)  
 Masakazu Sugimori - Ghost Trick Phantom Detective Original Sound Track (2010)  
-MIMI - よるつむぎ (2023)  
 uma vs. モリモリあつし - Re End of a Dream (2019)  
 Yonder Voice - 星月トラジコメディー (2017)  
 Yonder Voice - 花月夜 (2014)  
 いよわ - わたしのヘリテージ (2021)  
+ヒメヒナ - Bubblin (2025)  
 ツユ - 貴方を不幸に誘いますね (2021)  
-ツユ - やっぱり雨は降るんだね (2020)  
 トゲナシトゲアリ - 雑踏、僕らの街 (2024)  
 ピノキオピー - PINOCCHIOP BEST ALBUM 2009-2020 寿 (2021)  
 星街すいせい - 新星目録 (2025)  
@@ -88,11 +84,11 @@ Things like modded Minecraft and FFXIV were also my good times when I wasn't thi
 AE2 is the best Minecraft mod.  
 I'm no longer actively playing FFXIV because they killed BLM gameplay, it's extremely sad but I will take the leave.
 
-I watch vtubers and browse tech news when I'm too tired to play anything.
+I watch quite a bit of vtubers and browse tech news when I'm too tired to play anything.
 
 ## Future
 
-If I can ever have a better work-life balance:
+When I have a better work-life balance in the future:
 
 Learn to drive a manual.
 
