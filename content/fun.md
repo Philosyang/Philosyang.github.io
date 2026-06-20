@@ -14,13 +14,13 @@ How a language model rated my gaming taste archetype:
 
 I am fortunate enough to be around an inclusive and friendly local social circle around rhythm games, as well as making many friends beyond the games themselves.
 
-I am typically at one of my local Round1s during the weekends for some maimai or iidx.
+I am typically at one of my local Round1s for some maimai.
 
 ## Music
 
 To me, music is like a drug that for some reasons is legal. My favorites lie in EDM (Dance, Trance, House, Bounce, Techno) and part of J-pop (and if you consider vocaloid as a genre, tick that and mark as favorite).
 
-I buy albums to fulfill my materialism needs as well as expressing my thanks.
+I collect albums to fulfill my materialism needs as well as expressing my thanks.
 
 <details open><summary>featured albums</summary>
 
@@ -28,7 +28,7 @@ I buy albums to fulfill my materialism needs as well as expressing my thanks.
 雄之助 - Tranquilizer (2023)  
 r-906 - sanctuary (2026)  
 稲葉曇 - ウェザーステーション (2022)  
-Orangestar - And So Henceforth (2023)  
+ヰ世界情緒 - 色彩 (2024)  
 
 </details>
 
@@ -55,10 +55,12 @@ Endorfin. - Horizon Dream (2025)
 Kanaria - KING (2020)  
 Lena Raine - Celeste Original Soundtrack (2018)  
 Masakazu Sugimori - Ghost Trick Phantom Detective Original Sound Track (2010)  
+Orangestar - And So Henceforth (2023)  
 uma vs. モリモリあつし - Re End of a Dream (2019)  
 Yonder Voice - 星月トラジコメディー (2017)  
 Yonder Voice - 花月夜 (2014)  
 いよわ - わたしのヘリテージ (2021)  
+空爽 - CYAN (2026)  
 ヒメヒナ - Bubblin (2025)  
 ツユ - 貴方を不幸に誘いますね (2021)  
 トゲナシトゲアリ - 雑踏、僕らの街 (2024)  
@@ -86,12 +88,16 @@ I'm no longer actively playing FFXIV because they killed BLM gameplay, it's extr
 
 I watch quite a bit of vtubers and browse tech news when I'm too tired to play anything.
 
-## Future
+## Future / Wishlists
 
-When I have a better work-life balance in the future:
+Get a better job that has reaches minimum SWE pay, having PTO, etc.; unlocks many things below.
 
-Learn to drive a manual.
+Go home annually for some family time.
 
-I would like to further improve my Japanese skills so that I can fully understand voice dramas / any general broadcasts of my games / artists so that I can listen to them while driving.
+Go to Japan annually for concerts and CD/goodies bulk-buys.
 
-I want to pick up my piano (redoing staff notation) and look into music creation.
+Further improve my Japanese skills so that I can fully understand voice dramas / any general broadcasts of my games / artists.
+
+Pick piano back up, practice sight reads, transcribe favorite songs into piano scores and play them.
+
+Learn to drive a manual? Maybe paddle shifters hits just as good, need to experiment.
