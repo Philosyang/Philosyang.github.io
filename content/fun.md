@@ -32,7 +32,7 @@ r-906 - sanctuary (2026)
 
 </details>
 
-<details open><summary>featured songs</summary>
+<details><summary>featured songs</summary>
 
 tn-shi - Synthesis. (2023)  
 ナナツカゼ - あのね (2025)  
@@ -69,7 +69,10 @@ Yonder Voice - 花月夜 (2014)
 花譜 - 寓話 (2024)  
 雄之助 - Vanguard (2024)  
 
-</details>
+</details><br>
+
+
+I am picking piano back up! Currently doing daily piano marvel sight read practices as well as chipping through [私は雨 by 稲葉曇](https://musescore.com/user/98126737/scores/24055741). It's a great option for some quality time when the time/energy isn't right for maimai.
 
 ## Other Games & Hobbies
 
@@ -97,7 +100,5 @@ Go home annually for some family time.
 Go to Japan annually for concerts and CD/goodies bulk-buys.
 
 Further improve my Japanese skills so that I can fully understand voice dramas / any general broadcasts of my games / artists.
-
-Pick piano back up, practice sight reads, transcribe favorite songs into piano scores and play them.
 
 Learn to drive a manual? Maybe paddle shifters hits just as good, need to experiment.
