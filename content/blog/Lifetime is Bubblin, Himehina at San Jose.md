@@ -1,5 +1,5 @@
 ---
-title: "Lifetime is Bubblin, ヒメヒナ at San Jose"
+title: "Lifetime is Bubblin, Himehina at San Jose"
 date: 2026-07-24
 tags: ["slice-of-life"]
 ---
