@@ -1,7 +1,7 @@
 ---
 title: "Adjusting maimai DX Offsets"
 date: 2026-01-25
-tags: ["maimai"]
+tags: ["rhythm-games", "maimai"]
 ---
 
 Several notes beforehand:  
