@@ -92,7 +92,7 @@ I'm no longer actively playing FFXIV because they killed BLM gameplay, it's extr
 I watch quite a bit of vtubers and I browse tech news when I'm too tired to work on / play anything.
 
 ## Future / Wishlists
-Get a better job that has reaches minimum SWE pay, having PTO, etc.; unlocks many things below.
+Land a job that pays fairly and timely, have proper roadmap and plans instead of new P0s every day, make on-calls predictive and compensate humanely, have a concrete number on PTO, etc.
 
 Go home annually for some family time.
 
